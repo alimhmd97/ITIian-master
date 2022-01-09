@@ -1,0 +1,39 @@
+
+
+.button{background: rgba(117,13,13,0.81);
+    background: linear-gradient(271deg,rgba(117,13,13,0.81) 0%, #bd2f2f 80%);
+    background: -webkit-linear-gradient(271deg,rgba(117,13,13,0.81) 0%, #bd2f2f 80%);
+    background: -moz-linear-gradient(271deg,rgba(117,13,13,0.81) 0%, #bd2f2f 80%);
+    padding:5px 55%;
+    border: 0ch;
+    box-shadow: -4px 6px 13px -1px rgba(0,0,0,0.64);
+    -webkit-box-shadow: -4px 6px 13px -1px rgba(0,0,0,0.64);
+    -moz-box-shadow: -4px 6px 13px -1px rgba(0,0,0,0.64);
+}
+.login__wrapper{
+    padding: 0;
+    margin: 10rem 0;
+
+}
+.form__wrapper{
+    box-shadow: -4px 6px 13px -1px rgba(0,0,0,0.64);
+    -webkit-box-shadow: -4px 6px 13px -1px rgba(0,0,0,0.64);
+    -moz-box-shadow: -4px 6px 13px -1px rgba(0,0,0,0.64);
+    border-radius: 30px;
+}
+h2{
+    font-size: 3rem;
+    text-align: center;
+    color: #bd2f2f;
+
+}
+.login__container{
+    box-shadow: -4px 6px 13px -1px rgba(0,0,0,0.64);
+    -webkit-box-shadow: -4px 6px 13px -1px rgba(0,0,0,0.64);
+    -moz-box-shadow: -4px 6px 13px -1px rgba(0,0,0,0.64);
+    border-radius: 30px;
+}
+.register__logo{
+    margin-top: 30%;
+    
+}

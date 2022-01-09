@@ -1,0 +1,12 @@
+.input {
+    border: 0ch;
+    padding: 5px 0;
+    width: 123%;
+    padding-left: 10px;
+    box-shadow: -4px 6px 13px -1px rgba(0, 0, 0, 0.64);
+    -webkit-box-shadow: -4px 6px 13px -1px rgba(0, 0, 0, 0.64);
+    -moz-box-shadow: -4px 6px 13px -1px rgba(0, 0, 0, 0.64);
+}
+label {
+    margin-bottom: 0.2rem;
+}

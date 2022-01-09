@@ -1,0 +1,62 @@
+header {
+    background-color: rgb(144, 27, 32);
+    padding: 0 15px;
+}
+
+.navBar {
+    background-color: rgb(144, 27, 32);
+}
+
+.nav,
+.links,
+.profile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links {
+    justify-content: center;
+}
+
+.links a {
+    padding: 20px 15px;
+    transition: 0.2s;
+}
+
+.links a:not(:last-child) {
+    margin-right: 15px;
+}
+
+.links a:hover {
+    color: rgb(144, 27, 32);
+    background-color: #fff;
+}
+
+.nav {
+    flex-basis: 15%;
+}
+
+.links {
+    flex-basis: 70%;
+}
+
+.profile {
+    justify-content: flex-end;
+    flex-basis: 15%;
+}
+
+a {
+    /* color: #fff; */
+    /* font-size: 19px; */
+    text-decoration: none;
+}
+
+.topbarImg {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+    margin: 0px 10px;
+}

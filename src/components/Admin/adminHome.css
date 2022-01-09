@@ -1,0 +1,80 @@
+ .admin-container {
+     height: 100vh;
+     min-height: 100vh;
+     background-color: #242322;
+     margin: 0 auto;
+ }
+ 
+ .profile_container {
+     display: flex;
+     align-items: center;
+ }
+ 
+ .vv {
+     padding: 1rem;
+ }
+ 
+ .login {
+     width: 400px;
+     /* margin:230px auto; */
+     padding: 40px;
+     text-align: center;
+ }
+ 
+ .input-group {
+     margin-bottom: 10px;
+ }
+ 
+ .input-group-prepend {
+     margin-right: -2px;
+ }
+ 
+ .form-control:focus {
+     border-color: initial;
+     box-shadow: none
+ }
+ 
+ .login-hr {
+     width: 100%;
+     border-top: 1px solid #dc3545
+ }
+ 
+ .login-fa {
+     display: block;
+     transition: .8s all ease-in-out;
+     color: #fff;
+     font-size: 3rem;
+     text-align: center;
+ }
+ 
+ .login-fa:hover {
+     transform: rotate(360deg)
+ }
+ 
+ .admincard {
+     color: #fff !important;
+     text-align: center;
+     display: flex;
+     flex-direction: column column;
+     min-width: 15rem;
+     border-radius: 0.75em;
+     box-shadow: rgb(185, 185, 185) 0px 3px 5px;
+     transition: transform 270ms ease;
+     position: relative;
+     padding: 1rem;
+     margin-bottom: 8rem;
+ }
+ 
+ .add-user {
+     color: #fff !important;
+ }
+ 
+ .TrackAdminImg {
+     width: 350px;
+     height: 225px;
+     border-radius: 5%;
+     object-fit: cover;
+     cursor: pointer;
+     margin: 7px 10px 0px 180px;
+     border: 3px solid #dc3545;
+ }

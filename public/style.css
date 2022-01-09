@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+
+p {
+    color: #222831;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

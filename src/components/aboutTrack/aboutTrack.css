@@ -1,0 +1,50 @@
+.trackheader {
+    background-color: #EDF0F1;
+    width: 100%;
+    height: 40vh;
+}
+
+.AboutTrack_left img {
+    width: 100%;
+}
+
+.AboutTrack_right p {
+    text-align: left;
+}
+
+.apply {
+    background-color: #EDF0F1;
+}
+
+ul,
+.item_head {
+    text-align: left;
+    list-style-type: none;
+    list-style: none;
+    padding: 0
+}
+
+.accordion-button {
+    background-color: #901B20;
+    color: #ffffff;
+    font-size: large
+}
+
+.accordion-button:focus {
+    color: #161718;
+    background-color: #EDF0F1;
+    box-shadow: none;
+}
+
+.Accordion {
+    margin: 5rem 2rem;
+}
+
+h5 {
+    color: #901B20;
+    ;
+}
+
+.before-apply {
+    background-color: #EDF0F1;
+}
